@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixelsDEAD.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->	
+	<!-- Senpai Idle instance  -->
+	<SubTexture name="rip10000" x="0" y="0" width="50" height="50"/>
+	<SubTexture name="rip10001" x="0" y="0" width="50" height="50"/>
+	<SubTexture name="rip10002" x="0" y="0" width="50" height="50"/>
+	<SubTexture name="rip10003" x="0" y="0" width="50" height="50"/>
+	<SubTexture name="rip10004" x="0" y="50" width="50" height="50"/>
+	<SubTexture name="rip10005" x="0" y="50" width="50" height="50"/>
+	<SubTexture name="rip10006" x="0" y="50" width="50" height="50"/>
+	<SubTexture name="rip10007" x="0" y="50" width="50" height="50"/>
+	<SubTexture name="rip10008" x="0" y="100" width="50" height="50"/>
+	<SubTexture name="rip10009" x="0" y="100" width="50" height="50"/>
+	<SubTexture name="rip10010" x="0" y="100" width="50" height="50"/>
+	<SubTexture name="rip10011" x="0" y="100" width="50" height="50"/>
+	<SubTexture name="rip10012" x="0" y="150" width="50" height="50"/>
+	<SubTexture name="rip10013" x="0" y="150" width="50" height="50"/>
+	<SubTexture name="rip10014" x="0" y="150" width="50" height="50"/>
+	<SubTexture name="rip10015" x="0" y="150" width="50" height="50"/>
+	<SubTexture name="rip10016" x="50" y="0" width="50" height="50"/>
+	<SubTexture name="rip10017" x="50" y="0" width="50" height="50"/>
+	<SubTexture name="rip10018" x="50" y="0" width="50" height="50"/>
+	<SubTexture name="rip10019" x="50" y="0" width="50" height="50"/>
+	<SubTexture name="rip10020" x="50" y="50" width="50" height="50"/>
+	<SubTexture name="rip10021" x="50" y="50" width="50" height="50"/>
+	<SubTexture name="rip10022" x="50" y="50" width="50" height="50"/>
+	<SubTexture name="rip10023" x="50" y="50" width="50" height="50"/>
+	<SubTexture name="rip10024" x="50" y="100" width="50" height="50"/>
+	<SubTexture name="rip10025" x="50" y="100" width="50" height="50"/>
+	<SubTexture name="rip10026" x="50" y="100" width="50" height="50"/>
+	<SubTexture name="rip10027" x="50" y="100" width="50" height="50"/>
+	<SubTexture name="rip10028" x="50" y="150" width="50" height="50"/>
+	<SubTexture name="rip10029" x="50" y="150" width="50" height="50"/>
+	<SubTexture name="rip10030" x="50" y="150" width="50" height="50"/>
+	<SubTexture name="rip10031" x="50" y="150" width="50" height="50"/>
+</TextureAtlas>

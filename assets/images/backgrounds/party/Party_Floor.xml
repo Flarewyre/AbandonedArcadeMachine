@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Party_Floor.png">
+	<!-- Created by OneilR the funki XML WIZARD <3 -->
+	<SubTexture name="Floor0000" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0001" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0002" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0003" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0004" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0005" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Floor0006" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0007" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0008" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0009" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0010" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0011" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Floor0012" x="0" y="322" width="311" height="161"/>
+	<SubTexture name="Floor0013" x="0" y="322" width="311" height="161"/>
+	<SubTexture name="Floor0014" x="0" y="322" width="311" height="161"/>
+	<SubTexture name="Floor0015" x="0" y="322" width="311" height="161"/>
+	<SubTexture name="Floor0016" x="0" y="322" width="311" height="161"/>
+	<SubTexture name="Floor0017" x="0" y="322" width="311" height="161"/>
+</TextureAtlas>

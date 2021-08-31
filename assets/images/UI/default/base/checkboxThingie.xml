@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="check.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- also slightly edited by shubs lmao -->
+	<SubTexture name="check0000" x="16" y="0" width="16" height="16"/>
+
+	<SubTexture name="checkFinished0000" x="16" y="0" width="16" height="16"/>
+	<SubTexture name="uncheckFinished0000" x="0" y="0" width="16" height="16"/>
+
+	<SubTexture name="uncheck0000" x="0" y="0" width="16" height="16"/>
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+</TextureAtlas>

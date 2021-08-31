@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peeps-suit.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="penis_music10000" x="0" y="0" width="311" height="85"/>
+	<SubTexture name="penis_music10001" x="0" y="0" width="311" height="85"/>
+	<SubTexture name="penis_music10002" x="0" y="0" width="311" height="85"/>
+	<SubTexture name="penis_music10003" x="0" y="85" width="311" height="85"/>
+	<SubTexture name="penis_music10004" x="0" y="85" width="311" height="85"/>
+	<SubTexture name="penis_music10005" x="0" y="85" width="311" height="85"/>
+</TextureAtlas>

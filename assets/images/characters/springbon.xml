@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="springbon.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->	
+	<!-- Senpai Idle instance  -->
+	<SubTexture name="Idle10000" x="0" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10001" x="0" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10002" x="0" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10003" x="0" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10004" x="0" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10005" x="80" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10006" x="80" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10007" x="80" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10008" x="80" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10009" x="80" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10010" x="160" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10011" x="160" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10012" x="160" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10013" x="160" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10014" x="160" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10015" x="240" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10016" x="240" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10017" x="240" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10018" x="240" y="0" width="80" height="112"/>
+	<SubTexture name="Idle10019" x="240" y="0" width="80" height="112"/>
+	
+	<SubTexture name="Up10000" x="0" y="112" width="80" height="112"/>
+	<SubTexture name="Up10001" x="0" y="112" width="80" height="112"/>
+	<SubTexture name="Up10002" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10003" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10014" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10005" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10006" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10007" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10008" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10009" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10010" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10011" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10012" x="80" y="112" width="80" height="112"/>
+	<SubTexture name="Up10013" x="80" y="112" width="80" height="112"/>
+	
+	<SubTexture name="Left10000" x="0" y="224" width="80" height="112"/>
+	<SubTexture name="Left10001" x="0" y="224" width="80" height="112"/>
+	<SubTexture name="Left10002" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10003" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10014" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10005" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10006" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10007" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10008" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10009" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10010" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10011" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10012" x="80" y="224" width="80" height="112"/>
+	<SubTexture name="Left10013" x="80" y="224" width="80" height="112"/>
+	
+	<SubTexture name="Down10000" x="160" y="112" width="80" height="112"/>
+	<SubTexture name="Down10001" x="160" y="112" width="80" height="112"/>
+	<SubTexture name="Down10002" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10003" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10014" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10005" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10006" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10007" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10008" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10009" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10010" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10011" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10012" x="240" y="112" width="80" height="112"/>
+	<SubTexture name="Down10013" x="240" y="112" width="80" height="112"/>
+	
+	<SubTexture name="Right10000" x="160" y="224" width="80" height="112"/>
+	<SubTexture name="Right10001" x="160" y="224" width="80" height="112"/>
+	<SubTexture name="Right10002" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10003" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10014" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10005" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10006" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10007" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10008" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10009" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10010" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10011" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10012" x="240" y="224" width="80" height="112"/>
+	<SubTexture name="Right10013" x="240" y="224" width="80" height="112"/>
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+</TextureAtlas>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonnie.png">
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->	
+	<!-- Senpai Idle instance  -->
+	<SubTexture name="Idle10000" x="0" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10001" x="0" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10002" x="0" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10003" x="0" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10004" x="0" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10005" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10006" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10007" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10008" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10009" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10010" x="370" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10011" x="370" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10012" x="370" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10013" x="370" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10014" x="370" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10015" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10016" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10017" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10018" x="185" y="0" width="185" height="131"/>
+	<SubTexture name="Idle10019" x="185" y="0" width="185" height="131"/>
+	<!-- Created by OneilR the XML WIZARD <3 -->
+	<!-- Created by OneilR the XML WIZARD <3 -->
+</TextureAtlas>

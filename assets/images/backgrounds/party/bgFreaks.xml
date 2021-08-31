@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFreaks.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG fangirls dissuaded0000" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0001" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0002" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0003" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0004" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0005" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0006" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0007" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0008" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0009" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0010" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0011" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0012" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0013" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0014" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0015" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0016" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0017" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0018" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0019" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0020" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0021" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0022" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0023" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0024" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0025" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0026" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0027" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0028" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG fangirls dissuaded0029" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0000" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0001" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0002" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0003" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0004" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0005" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0006" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0007" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0008" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0009" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0010" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0011" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0012" x="0" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0013" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0014" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0015" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0016" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0017" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0018" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0019" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0020" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0021" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0022" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0023" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0024" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0025" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0026" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0027" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0028" x="460" y="0" width="460" height="106"/>
+	<SubTexture name="BG girls group0029" x="460" y="0" width="460" height="106"/>
+
+
+
+
+
+	<SubTexture name="spirits fading0000" x="0" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0001" x="0" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0002" x="460" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0003" x="460" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0004" x="920" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0005" x="920" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0006" x="1380" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0007" x="1380" y="106" width="460" height="106"/>
+	<SubTexture name="spirits fading0008" x="0" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0009" x="0" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0010" x="460" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0011" x="460" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0012" x="920" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0013" x="920" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0014" x="1380" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0015" x="1380" y="212" width="460" height="106"/>
+	<SubTexture name="spirits fading0016" x="0" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0017" x="0" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0018" x="460" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0019" x="460" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0020" x="920" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0021" x="920" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0022" x="1380" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0023" x="1380" y="318" width="460" height="106"/>
+	<SubTexture name="spirits fading0024" x="0" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0025" x="0" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0026" x="460" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0027" x="460" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0028" x="920" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0029" x="920" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0030" x="1380" y="424" width="460" height="106"/>
+	<SubTexture name="spirits fading0031" x="1380" y="424" width="460" height="106"/>
+
+	<SubTexture name="spirits fading0032" x="0" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0033" x="0" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0034" x="460" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0035" x="460" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0036" x="920" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0037" x="920" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0038" x="1380" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0039" x="1380" y="530" width="460" height="106"/>
+	<SubTexture name="spirits fading0040" x="0" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0041" x="0" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0042" x="460" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0043" x="460" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0044" x="920" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0045" x="920" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0046" x="1380" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0047" x="1380" y="636" width="460" height="106"/>
+	<SubTexture name="spirits fading0048" x="0" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0049" x="0" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0050" x="460" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0051" x="460" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0052" x="920" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0053" x="920" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0054" x="1380" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0055" x="1380" y="742" width="460" height="106"/>
+	<SubTexture name="spirits fading0056" x="0" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0057" x="0" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0058" x="460" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0059" x="460" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0060" x="920" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0061" x="920" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0062" x="1380" y="848" width="460" height="106"/>
+	<SubTexture name="spirits fading0063" x="1380" y="848" width="460" height="106"/>
+
+	<SubTexture name="spirits fading0064" x="0" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0065" x="0" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0066" x="460" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0067" x="460" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0068" x="920" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0069" x="920" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0070" x="1380" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0071" x="1380" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0072" x="0" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0073" x="0" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0074" x="460" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0075" x="460" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0076" x="920" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0077" x="920" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0078" x="1380" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0079" x="1380" y="1060" width="460" height="106"/>
+	<SubTexture name="spirits fading0080" x="0" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0081" x="0" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0082" x="460" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0083" x="460" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0084" x="920" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0085" x="920" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0086" x="1380" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0087" x="1380" y="1166" width="460" height="106"/>
+	<SubTexture name="spirits fading0088" x="0" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0089" x="0" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0090" x="460" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0091" x="460" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0092" x="920" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0093" x="920" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0094" x="1380" y="1272" width="460" height="106"/>
+	<SubTexture name="spirits fading0095" x="1380" y="1272" width="460" height="106"/>
+
+	<SubTexture name="spirits fading0096" x="0" y="954" width="460" height="106"/>
+	<SubTexture name="spirits fading0097" x="0" y="954" width="460" height="106"/>
+
+
+
+	<!-- theyre fucking dead -->
+
+
+
+
+
+
+</TextureAtlas>
