@@ -125,7 +125,17 @@ class ForeverAssets
 		var newStaticArrow:UIStaticArrow = new UIStaticArrow(x, y, staticArrowType);
 		switch (assetModifier)
 		{
-			case 'pixel':
+			case 'chart editor':
+				newStaticArrow.loadGraphic(Paths.image('UI/forever/base/chart editor/note_array'), true, 157, 156);
+				newStaticArrow.animation.add('static', [staticArrowType]);
+				newStaticArrow.animation.add('pressed', [16 + staticArrowType], 12, false);
+				newStaticArrow.animation.add('confirm', [4 + staticArrowType, 8 + staticArrowType, 16 + staticArrowType], 24, false);
+
+				newStaticArrow.addOffset('static');
+				newStaticArrow.addOffset('pressed');
+				newStaticArrow.addOffset('confirm');
+
+			default:
 				// look man you know me I fucking hate repeating code
 				// not even just a cleanliness thing it's just so annoying to tweak if something goes wrong like
 				// genuinely more programmers should make their code more modular
@@ -144,55 +154,6 @@ class ForeverAssets
 				newStaticArrow.addOffset('static', -67, -75);
 				newStaticArrow.addOffset('pressed', -67, -75);
 				newStaticArrow.addOffset('confirm', -67, -75);
-
-			case 'chart editor':
-				newStaticArrow.loadGraphic(Paths.image('UI/forever/base/chart editor/note_array'), true, 157, 156);
-				newStaticArrow.animation.add('static', [staticArrowType]);
-				newStaticArrow.animation.add('pressed', [16 + staticArrowType], 12, false);
-				newStaticArrow.animation.add('confirm', [4 + staticArrowType, 8 + staticArrowType, 16 + staticArrowType], 24, false);
-
-				newStaticArrow.addOffset('static');
-				newStaticArrow.addOffset('pressed');
-				newStaticArrow.addOffset('confirm');
-
-			default:
-				// probably gonna revise this and make it possible to add other arrow types but for now it's just pixel and normal
-				var stringSect:String = '';
-				// call arrow type I think
-				stringSect = UIStaticArrow.getArrowFromNumber(staticArrowType);
-
-				var framesArgument:String = "NOTE_assets";
-
-				newStaticArrow.frames = Paths.getSparrowAtlas(ForeverTools.returnSkinAsset('$framesArgument', assetModifier,
-					Init.trueSettings.get("Note Skin"), 'noteskins/notes'));
-
-				newStaticArrow.animation.addByPrefix('static', 'arrow' + stringSect.toUpperCase());
-				newStaticArrow.animation.addByPrefix('pressed', stringSect + ' press', 24, false);
-				newStaticArrow.animation.addByPrefix('confirm', stringSect + ' confirm', 24, false);
-
-				newStaticArrow.antialiasing = (!Init.trueSettings.get('Disable Antialiasing'));
-				newStaticArrow.setGraphicSize(Std.int(newStaticArrow.width * 0.7));
-
-				// set little offsets per note!
-				// so these had a little problem honestly and they make me wanna off(set) myself so the middle notes basically
-				// have slightly different offsets than the side notes (which have the same offset)
-
-				var offsetMiddleX = 0;
-				var offsetMiddleY = 0;
-				if (staticArrowType > 0 && staticArrowType < 3)
-				{
-					offsetMiddleX = 2;
-					offsetMiddleY = 2;
-					if (staticArrowType == 1)
-					{
-						offsetMiddleX -= 1;
-						offsetMiddleY += 2;
-					}
-				}
-
-				newStaticArrow.addOffset('static');
-				newStaticArrow.addOffset('pressed', -2, -2);
-				newStaticArrow.addOffset('confirm', 36 + offsetMiddleX, 36 + offsetMiddleY);
 		}
 
 		return newStaticArrow;

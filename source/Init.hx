@@ -152,12 +152,10 @@ class Init extends FlxState
 			trueSettings.set("Framerate Cap", 30);
 
 		// 'hardcoded' ui skins
-		gameSettings.get("UI Skin")[3] = CoolUtil.returnAssetsLibrary('UI');
-		if (!gameSettings.get("UI Skin")[3].contains(trueSettings.get("UI Skin")))
-			trueSettings.set("UI Skin", 'default');
-		gameSettings.get("Note Skin")[3] = CoolUtil.returnAssetsLibrary('noteskins/notes');
-		if (!gameSettings.get("Note Skin")[3].contains(trueSettings.get("Note Skin")))
-			trueSettings.set("Note Skin", 'default');
+		trueSettings.set("UI Skin", 'default');
+		trueSettings.set("Note Skin", 'default');
+		trueSettings.set("Filter", 'none');
+
 
 		saveSettings();
 
